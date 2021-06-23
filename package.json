@@ -1,0 +1,19 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramondara10/Employee-Tracker.git"
+  },
+  "author": "Ramon Alvarado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramondara10/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/ramondara10/Employee-Tracker#readme"
+}
