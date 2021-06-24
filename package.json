@@ -18,5 +18,9 @@
   "homepage": "https://github.com/ramondara10/Employee-Tracker#readme",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "employee"
+  ]
 }
