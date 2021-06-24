@@ -1,3 +1,4 @@
+/* eslint-disable default-case */
 import React, { Component } from 'react';
 import Card from './Card'
 import Axios from 'axios'
