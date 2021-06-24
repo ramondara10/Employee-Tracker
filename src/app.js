@@ -1,8 +1,15 @@
-import React from 'react';
-import Container from './components/Container';
+import React from "react";
+import "./App.css";
+import Header from "./components/Header";
+import EmployeesContainer from "./components/Container/EmployeesContainer";
 
-const App = () =>{
-    return <Container/>
+const App = () => {
+  return (
+    <>
+      <Header />
+      <EmployeesContainer />
+    </>
+  );
 };
 
-export default App
+export default App;
