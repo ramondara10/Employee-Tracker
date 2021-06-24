@@ -1,15 +1,10 @@
-import React from "react";
-import "./App.css";
-import Header from "./components/Header";
-import EmployeesContainer from "./components/Container/EmployeesContainer";
+import React from 'react';
+import Container from './components/Container';
 
+// console.log(fakes.date);
 const App = () => {
-  return (
-    <>
-      <Header />
-      <EmployeesContainer />
-    </>
-  );
+    return <Container />
 };
+    
 
 export default App;
