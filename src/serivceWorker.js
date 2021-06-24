@@ -1,3 +1,4 @@
+//the service worker is optional it can make the app a little faster 
 const isLocalhost = Boolean(
     window.location.hostname === 'localhost' ||
       // [::1] is the IPv6 localhost address.
